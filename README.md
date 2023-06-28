@@ -1,2 +1,2 @@
 My first readme
-README update from gitnuhb.com
+README update from github
